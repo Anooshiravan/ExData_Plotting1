@@ -1,6 +1,6 @@
 # Plots are created in ./plots folder, named plot1.png, plot2.png etc.
 # the ./figures folder comes from the fork
-# The objective is to create plots in the ./plots folder that are identical to the plost in the ./figures folder using R code
+# The objective is to create plots in the ./plots folder that are identical to the plots in the ./figures folder using R code
 
 # Change this directory to YOUR working directory
 # Also create 2 folders (data & plots) in your working directory
