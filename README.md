@@ -7,10 +7,10 @@ Before you reject the code because e.g. filenames have the extention of ".R" ins
 
 Project description says:
 DO NOT: 
--Deduct just because you disagree with someone's statistical methods.
--Deduct just because you disagree with someone's plotting methods.
--Deduct based on aesthetics.
-[Aesthetics = a set of principles concerned with the nature and appreciation of beauty.]
+-Deduct just because you disagree with someone's statistical methods.  
+-Deduct just because you disagree with someone's plotting methods.  
+-Deduct based on aesthetics.  
+[Aesthetics = a set of principles concerned with the nature and appreciation of beauty.]  
 
 
 ## Introduction
