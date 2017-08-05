@@ -5,8 +5,8 @@ In this new submission, NOTHING has changed in the code except such cosmetic stu
 Please remember: We are here to learn data science, not to get lost in aesthetics.  
 Before you reject the code because e.g. filenames have the extention of ".R" instead of ".r" (!!) please READ THE CODE and PROJCET DESCRIPTION first.  
 
-Project description says:
-DO NOT: 
+Project description says:  
+DO NOT:   
 -Deduct just because you disagree with someone's statistical methods.  
 -Deduct just because you disagree with someone's plotting methods.  
 -Deduct based on aesthetics.  
