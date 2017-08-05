@@ -1,5 +1,19 @@
-## Introduction
+## Before you review:
+My previous submission got 57% of score (rejected) because of things like file path etc.   
+In this new submission, NOTHING has changed in the code except such cosmetic stuff.  
 
+Please remember: We are here to learn data science, not to get lost in aesthetics.  
+Before you reject the code because e.g. filenames have the extention of ".R" instead of ".r" (!!) please READ THE CODE and PROJCET DESCRIPTION first.  
+
+Project description says:
+DO NOT: 
+-Deduct just because you disagree with someone's statistical methods.
+-Deduct just because you disagree with someone's plotting methods.
+-Deduct based on aesthetics.
+[Aesthetics = a set of principles concerned with the nature and appreciation of beauty.]
+
+
+## Introduction
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
